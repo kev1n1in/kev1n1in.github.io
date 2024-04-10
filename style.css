@@ -1,0 +1,38 @@
+/* *{
+  border: 1px solid black;
+} */
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      min-height: 100vh
+    }
+    #textsection{
+      height: 500px;
+}
+    #output {
+      font-size: 24px;
+      margin-top: 20px;
+    }
+    h1{
+      padding:48px; 
+}
+      
+
+button{
+  font-size: 25px;
+  margin-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  
+}
+
+footer.jumbotron{
+  background-color: #62BBC1;
+  text-align: left;
+  font-size:30px;
+  padding-left: 150px;
+}
+  img{
+    height: 40px;
+    cursor: pointer;
+  }

@@ -1,16 +1,53 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+title: "身為末代 AppWorks School 的學員"
+description: " "
+pubDate: "May 14 2025"
+heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+從 AppWorks School ( 後簡稱 School ) 畢業後也差不多半年了
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+回想起當初下定決心要成為軟體工程師是 2024 的春節
+你問我怎麼會做這個決定?
+我也說不上來 只是覺得好像不能就這樣活下去
+不喜歡能一眼望到頭的人生
+在職場的時間說多不多說少不少 從大一開始就工作的我
+這樣算下來也已經 6~7 年
+總是會在工作場所看到自己的前輩 並想著
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+> > 他們就是我十年後 二十年後的樣子
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+想到這裡我就感到一陣後怕
+倒也不是不喜歡過去的經歷 技能 體悟
+只是知道不能忍受十年後的我是那個樣子
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+懷抱著這個想法 開始邊工作邊自學怎麼寫程式
+並認真的開始找培訓機構
+我也不認為自己聰明到可以挑戰一個完全陌生的領域
+
+有找過這類培訓機構的 大概可以知道有幾個
+六角 五倍 資策會 School 等等…
+
+最後是決定去挑戰 School 原因也蠻單純的 就是要經過面試篩選
+既然要面試 那老師跟同學的水準基本上不會差到哪
+現在回想也感謝自己當初做了這個決定
+
+那這個過程也就不多做贅述了 相信網上很多相關文章
+總之就是自學做作品自學做作品自學做作品 面試
+集訓過程的痛苦不太是一句話能簡單帶過
+但後面的面試又是另一個層次的絕望
+
+> 不過老實說現在回想已經覺得那時候的挑戰其實不是太難的東西，痛苦都是相對的
+
+前端已死?
+前面有提到我其實已經有不少的工作經驗 但科技業的面試還是讓我吃盡苦頭
+多虧 AI 橫行的 2024 前端市場卷到要人命 身為半路出家的轉職仔
+儘管我的面試機會已經不算少 還是焦慮到開始懷疑自己
+
+> 先生請問您的職業是?<br/>
+> : 啊 那個 ㄜ ㄖㄨ…軟體工程師
+
+前陣子去銀行辦業務 被櫃台詢問職業
+話到嘴邊居然有點嘴軟
+
+> > 對呀 我已經是軟體工程師了
